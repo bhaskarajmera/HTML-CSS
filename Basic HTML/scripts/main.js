@@ -1,0 +1,1 @@
+alert("Welcome to the Mr Greens Smelly Fish Emporium page")
