@@ -1,2 +1,2 @@
-# HTML + CSS
-V1
+# HTML
+Play with Web
